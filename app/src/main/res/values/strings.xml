@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">pass data</string>
+    <string name="pass_data">Pass Data</string>
+    <string name="name">Name</string>
+    <string name="e_mail">E-mail</string>
+    <string name="phone">Phone</string>
+    <string name="button">Button</string>
+</resources>
