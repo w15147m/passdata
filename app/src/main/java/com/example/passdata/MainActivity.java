@@ -32,7 +32,11 @@ public class MainActivity extends AppCompatActivity {
             intent.putExtra("E-mail",getemail);
             intent.putExtra("num",getnum);
             startActivity(intent);
-
+//            Intent intent = new Intent(MainActivity.this , MainActivity2.class);
+//            intent.putExtra("name",getname);
+//            intent.putExtra("E-mail",getemail);
+//            intent.putExtra("num",getnum);
+//            startActivity(intent);
 
 
 
